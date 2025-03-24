@@ -1,0 +1,7 @@
+[project]
+name = "rustacle"
+version = "0.1.0"
+description = "Rustacle is a CLI tool that introspects Oracle database schemas and auto-generates type-safe Rust structs—making database integration in Rust projects effortles"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
